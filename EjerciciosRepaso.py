@@ -49,7 +49,6 @@ Ejercicio 5. Crea una función que dada una lista de palabras y una palabra elim
 todas apariciones de la palabra en la lista
 '''
 def ej5(l1, palabra):
-    print([x for x in l1 if x not palabra])
 
 '''
 Ejercicio 6. Crea una función que dadas dos listas (l1 y l2) elimine todos los
